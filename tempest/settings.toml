@@ -1,0 +1,8 @@
+[debug]
+enabled = true
+
+[window]
+size = [1280, 720]
+
+[colors]
+black = [0, 0, 0]
